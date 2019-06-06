@@ -8,7 +8,7 @@ import (
 
 // GoForth and prosper!
 func GoForth() {
-	cmd := exec.Command("docker", "run", "-it", "--rm", "jmhobbs/terminal-parrot:latest", "--loops", "10")
+	cmd := exec.Command("docker", "run", "-it", "--rm", "carflo/dumpster-fire:latest")
 	cmd.Stdout = os.Stdout
 	cmd.Stdin = os.Stdin
 
