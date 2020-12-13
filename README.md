@@ -2,7 +2,7 @@
 
 Because all good orgs have one.
 
-Make sure Go 1.11+ (and Docker because Ryan) is installed, then run it with:
+Make sure Go 1.15+ is installed, then run it with:
 
 ```
 make

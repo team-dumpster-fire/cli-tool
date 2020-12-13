@@ -1,2 +1,2 @@
 default:
-	cd dumpster-fire && go install
+	go install

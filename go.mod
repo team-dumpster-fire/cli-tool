@@ -1,3 +1,3 @@
-module github.com/team-dumpster-fire/cli-tool
+module dumpster-fire
 
-go 1.12
+go 1.15
